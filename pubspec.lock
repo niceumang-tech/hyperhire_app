@@ -75,6 +75,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  gradient_borders:
+    dependency: "direct main"
+    description:
+      name: gradient_borders
+      sha256: b1cd969552c83f458ff755aa68e13a0327d09f06c3f42f471b423b01427f21f8
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
   leak_tracker:
     dependency: transitive
     description:
@@ -131,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.11.0"
+  mj_image_slider:
+    dependency: "direct main"
+    description:
+      name: mj_image_slider
+      sha256: d3659e54484efeeb1abe14a16393db0b587adca5afe6ef39951fa2a252a6897f
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.7"
   path:
     dependency: transitive
     description:
@@ -210,3 +226,4 @@ packages:
     version: "13.0.0"
 sdks:
   dart: ">=3.3.3 <4.0.0"
+  flutter: ">=1.17.0"
